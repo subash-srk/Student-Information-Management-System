@@ -12,3 +12,17 @@ C:\Users\Subash K\Documents\Project\Student Information System\obj\Debug\Student
 C:\Users\Subash K\Documents\Project\Student Information System\obj\Debug\Student Information System.xml
 C:\Users\Subash K\Documents\Project\Student Information System\obj\Debug\Student Information System.pdb
 C:\Users\Subash K\Documents\Project\Student Information System\bin\Debug\student.accdb
+E:\Project\bin\Debug\student.accdb
+E:\Project\bin\Debug\Student Information System.exe.config
+E:\Project\bin\Debug\Student Information System.exe
+E:\Project\bin\Debug\Student Information System.pdb
+E:\Project\bin\Debug\Student Information System.xml
+E:\Project\obj\Debug\Student Information System.vbproj.AssemblyReference.cache
+E:\Project\obj\Debug\Student Information System.vbproj.SuggestedBindingRedirects.cache
+E:\Project\obj\Debug\Student_Information_System.Form1.resources
+E:\Project\obj\Debug\Student_Information_System.Resources.resources
+E:\Project\obj\Debug\Student Information System.vbproj.GenerateResource.cache
+E:\Project\obj\Debug\Student Information System.vbproj.CoreCompileInputs.cache
+E:\Project\obj\Debug\Student Information System.exe
+E:\Project\obj\Debug\Student Information System.xml
+E:\Project\obj\Debug\Student Information System.pdb
